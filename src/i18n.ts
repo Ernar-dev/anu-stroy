@@ -1,3 +1,3 @@
-export const locales = ["kz", "ru"];
+export const locales = ["ru", "kz"];
 
-export const defaultLocale = "kz";
+export const defaultLocale = "ru";
